@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/project-memory-card/static/css/main.6f07663a.css",
+    "main.js": "/project-memory-card/static/js/main.351da299.js",
+    "static/media/butter5.jpg": "/project-memory-card/static/media/butter5.2058f785777e4e696a91.jpg",
+    "static/media/butter6.jpg": "/project-memory-card/static/media/butter6.65a6aa89137fc85897eb.jpg",
+    "static/media/butter3.jpg": "/project-memory-card/static/media/butter3.b43f7ada52c63e12af78.jpg",
+    "static/media/butter1.jpg": "/project-memory-card/static/media/butter1.1dd259625cf08958d59e.jpg",
+    "static/media/butter2.jpg": "/project-memory-card/static/media/butter2.32a9d0ad17e454d7194d.jpg",
+    "static/media/butter8.jpg": "/project-memory-card/static/media/butter8.ef3760ac8be4e8e855bb.jpg",
+    "static/media/butter7.jpg": "/project-memory-card/static/media/butter7.79c642ec341ae2b18e98.jpg",
+    "index.html": "/project-memory-card/index.html",
+    "main.6f07663a.css.map": "/project-memory-card/static/css/main.6f07663a.css.map",
+    "main.351da299.js.map": "/project-memory-card/static/js/main.351da299.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f07663a.css",
+    "static/js/main.351da299.js"
+  ]
+}

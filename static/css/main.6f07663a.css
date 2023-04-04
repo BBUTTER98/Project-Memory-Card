@@ -1,0 +1,2 @@
+body{font-family:Arial;margin:0;padding:0}#root{display:grid;grid-template-rows:100px 1fr 100px;min-height:100vh}img{border-bottom:2px solid #fff;cursor:pointer;height:300px;padding:20px;transition:.2s ease-in-out;width:300px}img:hover{border-bottom-color:#000}.memory-container{display:flex;flex-wrap:wrap;gap:30px;justify-content:center;padding:30px}.heading{display:flex;padding-top:30px}.heading>div{flex:1 1;text-align:center}.score-container{align-items:center;display:flex;justify-content:space-evenly}
+/*# sourceMappingURL=main.6f07663a.css.map*/
